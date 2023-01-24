@@ -8,3 +8,5 @@ Eu trabalho na Philips.
 # Outras funcionalidades: "Issues"
 Uma outra funcionalidade provida pelo GitHub é a criação de lista de tarefas para descrever as funcionalidades a serem desenvolvidas no projeto. Estas listas auxiliam o desenvolvedor a gerenciar as novas funcionalidades ou correções que devem ser implementadas.
 <br>*Fonte: https://www.treinaweb.com.br/blog/5-utilidades-do-github/*
+# Alteração do ramo A:
+Simulação de conflito.
