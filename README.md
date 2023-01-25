@@ -10,3 +10,5 @@ Uma outra funcionalidade provida pelo GitHub é a criação de lista de tarefas 
 <br>*Fonte: https://www.treinaweb.com.br/blog/5-utilidades-do-github/*
 # Alteração do ramo A:
 Simulação de conflito.
+# Alteração ramo B:
+Simulação de conflito.
